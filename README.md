@@ -20,7 +20,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : MAGESH S
+Developed by : Magesh s
 Register Number : 212224040180
 
 ## C program that receives a message from message queue and display them
@@ -91,7 +91,7 @@ int main()
 
 ## OUTPUT
 
-![322689185-a0a860cf-105e-41c7-9dad-00baaa58ff9c](https://github.com/04Magesh/Linux-IPC-Message-Queues/assets/149035374/92240eb9-ab6b-49fc-a962-e229e4d045ff)
+![322689185-a0a860cf-105e-41c7-9dad-00baaa58ff9c](https://github.com/04Varsha/Linux-IPC-Message-Queues/assets/149035374/92240eb9-ab6b-49fc-a962-e229e4d045ff)
 
 
 
